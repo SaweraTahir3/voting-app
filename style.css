@@ -1,0 +1,91 @@
+*{
+    color: rgb(15, 15, 15); 
+    background-color: rgb(172, 125, 132);  
+}
+#container1{
+    width: 537px;
+    height: 582px;
+    backdrop-filter: blur(50px);
+background-color: rgba(225, 225, 225, 0.171) ;
+    padding: 25PX;
+    border-radius: 15px;
+    position: relative;
+    top: 10px ;
+    
+}
+
+.heading-1{
+    position: relative;
+    top: 1px;
+    color: black;
+    text-align: center;
+    margin-left: 75px;
+    font-size: 35PX;
+    text-shadow: 0ch beige;
+ text-shadow: 1.5px 1.5px #f5d3d3;
+}
+#input1{
+    width: 230px;
+    height: 45px;
+    border-radius: 5px;
+    background-color: gainsboro;
+    color: black;
+    position: relative;
+    top: 55px;
+    left: 65px;
+    border: none;
+    
+}
+#input1:hover{
+    border: 3px solid black;
+}
+#btn1{
+    background-image: url(picture/images\ \(3\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 95px;
+    height: 45px;
+    color: rgb(12, 12, 12);
+    font-size: 15px;
+    font-weight: 200;
+    border-radius: 5px;
+    position: relative;
+    top: 55px;
+    left: 72px;
+    border: none;
+}
+#btn1:hover{
+    border: 3px solid rgb(228, 210, 210);
+}
+/* .output{
+    width: 500px;
+    height: 300px;
+    /* background-color:gainsboro; */
+    /* color: black;
+    line-height: 50px;
+    /* position: relative; */
+    /* top: 100px; */
+    /* left: 19px; */
+    /* justify-content: center; */
+    /* text-align: center; */
+    /* font-size: 38px; */
+    /* border-radius: 10px; */
+}  */
+.list{
+     border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
